@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Plugaru Tudor",
+    "label": "Programmer",
+    "picture": "",
+    "email": "plugaru.tudor@gmail.com",
+    "phone": "(373) 78160666",
+    "website": "plugarut.github.io",
+    "summary": "Description about me",
+    "location": {
+      "address": "Florilor, 12",
+      "postalCode": "MD 6811",
+      "city": "Bardar",
+      "countryCode": "MD",
+      "region": "Ialoveni"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "plugarutudor",
+        "url": "www.linkedin.com/in/plugarutudor"
+      },
+      {
+        "network": "GitHub",
+        "username": "PlugaruT",
+        "url": "https://github.com/PlugaruT"
+      },
+      {
+        "network": "Facebook",
+        "username": "plugaru.tudor",
+        "url": "https://www.facebook.com/plugaru.tudor"
+      },
+      {
+        "network": "Twitter",
+        "username": "@PlugaruTudor",
+        "url": "https://twitter.com/PlugaruTudor"
+      },
+      {
+        "network": "Skype",
+        "username": "plugaru.tudor",
+        "url": "skype:plugaru.tudor?userinfo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fusion Work",
+      "position": "Summer Intern",
+      "website": "http://fw.md",
+      "startDate": "2015-07-01",
+      "endDate": "2015-07-31",
+      "summary": "FusionWorks is a fast growing IT solutions company, founded in 2011, with its headquarters in Moldova and marketing branch in US. FusionWorks consists of 50+ experienced professionals in different IT fields.",
+      "highlights": [
+        "Development of Google Chrome/Firefox Extensions"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mediapoint",
+      "position": "Member",
+      "website": "http://mediapoint.md/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-30",
+      "summary": "Member of IT department.",
+      "highlights": [
+        "Website maintenance."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University of Moldova",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2013-09-01",
+      "endDate": "2017-05-31",
+      "gpa": "",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Software Testing",
+        "Databases",
+        "Algorithm Analysis & Design",
+        "Embedded Systems",
+        "UML"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "MVC",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Beginner",
+      "keywords": [
+        "C",
+        "Python",
+        "C++",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Software and Tools",
+      "level": "Beginner",
+      "keywords": [
+        "PyCharm",
+        "Visual Studio",
+        "Git",
+        "SQL Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Science",
+      "keywords": [
+        "Web",
+        "SEO",
+        "FOSS"
+      ]
+    },
+    {
+      "name": "Hobby",
+      "keywords": [
+        "Reading",
+        "Music"
+      ]
+    }
+  ],
+  "references": []
+}
